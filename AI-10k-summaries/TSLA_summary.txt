@@ -1,0 +1,74 @@
+Here's a summary of the "Business" section from the 10-K filing:
+
+**Overview:**
+
+*   Tesla designs, manufactures, and sells electric vehicles (EVs), energy generation and storage systems, and related services.
+*   Products are sold directly to consumers via a global network.
+*   Focus on performance, safety, and reducing customer costs.
+*   Mission: Accelerate the world's transition to sustainable energy.
+
+**Segments:**
+
+*   **Automotive:** EVs (design, manufacturing, sales, leasing), automotive regulatory credits, used vehicle sales, services.
+*   **Energy Generation and Storage:** Solar energy generation, energy storage products (Powerwall, Megapack), and related services.
+
+**Products and Services:**
+
+*   **Automotive:** Model 3, Y, S, X, Cybertruck, Tesla Semi (commercial EV), and future planned vehicles using FSD (Supervised) technology.
+*   **Energy Generation and Storage:** Powerwall (home storage), Megapack (commercial/utility storage), solar panel retrofit systems, and Solar Roof.
+*   Offers in-app upgrades and is expanding robotaxi services.
+
+**Technology:**
+
+*   Proprietary electric vehicle powertrain, battery, vehicle control and infotainment software.
+*   Developing self-driving technology, including Autopilot and FSD (Supervised) systems, Robotaxi business and applying AI to robotics, developing Optimus.
+*   Modular battery and solar energy system designs.
+
+**Sales and Marketing:**
+
+*   Direct sales model (website, company-owned stores, galleries).
+*   Used vehicle sales support new vehicle sales.
+*   Growing global Supercharger network and partnerships for home and public charging.
+*   Market and sell solar and energy storage products to a variety of customers.
+
+**Service and Warranty:**
+
+*   Company-owned service locations, Mobile Service.
+*   Vehicle and energy product limited warranties and extended service plans.
+
+**Financial Services:**
+
+*   Purchase financing, leases, and insurance.
+*   Financing options and PPAs for energy systems.
+
+**Manufacturing:**
+
+*   Manufacturing facilities in the U.S. (California, New York, Texas, Nevada), China, Germany and Mexico.
+*   Expanding production capacity and localizing designs.
+
+**Supply Chain:**
+
+*   Global supply chain with single and multiple suppliers for components.
+*   Uses aluminum, steel, cobalt, lithium, nickel, and copper.
+
+**Governmental Programs, Incentives & Regulations:**
+
+*   Impacted by government credits, incentives (like the Inflation Reduction Act), and regulations globally.
+*   Sells automotive regulatory credits.
+*   Incentives and policies support energy storage and solar energy systems.
+*   Subject to vehicle safety, emissions, self-driving, and dealer regulations.
+
+**Competition:**
+
+*   Highly competitive automotive and energy storage markets with established and new players.
+*   Competes on price, performance, technology, and brand.
+
+**Intellectual Property:**
+
+*   Focus on innovation and protecting intellectual property (patents, trademarks, trade secrets).
+
+**ESG and Human Capital Resources:**
+
+*   Committed to sustainable energy, responsible sourcing, and sound corporate governance.
+*   Attracts and retains a global workforce of 125,665 employees as of Dec 31, 2024.
+*   Offers professional internships, development and education programs as well as competitive benefits and is committed to inclusion, ethical labor, and safety in the workplace.
