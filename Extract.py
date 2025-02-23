@@ -42,7 +42,7 @@ def get_latest_10k_url(ticker):
     if not filing_url:
         raise Exception(f"No primary 10-K document found for {ticker}")
         
-    print(f"\n✅ Latest 10-K filings for {ticker}: {filings}\n")
+    print(f"\n ***Latest 10-K filings for {ticker}: {filings}***\n")
     
     # Write the filing URL to a file
     with open(f"./URLS/{ticker}_10k_url.txt", "w", encoding="utf-8") as file:
@@ -55,7 +55,7 @@ def extract_business_section(filing_url, ticker):
     
     business_section = extractorApi.get_section(filing_url, "1", "text")
     
-    print(f"\n✅ Extracted Business Section for {ticker}:\n")
+    print(f"\n ***Extracted Business Section for {ticker}:***\n")
     print(business_section[:1000] + "...\n")  # Print only first 1000 chars for preview
     
     # Write the extracted text to a file

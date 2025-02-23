@@ -44,7 +44,7 @@ def main():
         with open(summary_path, "w", encoding="utf-8") as file:
             file.write(summary)
 
-        print(f"\n✅ Summary saved to {summary_path}")
+        print(f"\n*** Summary saved to {summary_path}***")
 
     except Exception as e:
         print(f"\n❌ Error: {e}")
