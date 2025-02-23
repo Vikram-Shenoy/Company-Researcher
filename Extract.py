@@ -69,7 +69,7 @@ def main():
     print(ticker)
     filing_url = get_latest_10k_url(ticker)
     extract_business_section(filing_url, ticker)
-    print(f"\n✅ Business section saved to {ticker}_business_section.txt")
+    print(f"\n*** Business section saved to {ticker}_business_section.txt")
 
 if __name__ == "__main__":
     main()

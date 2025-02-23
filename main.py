@@ -47,7 +47,7 @@ def main():
         print(f"\n*** Summary saved to {summary_path}***")
 
     except Exception as e:
-        print(f"\n❌ Error: {e}")
+        print(f"\n!!! Error: {e}")
 
 if __name__ == "__main__":
     main()
