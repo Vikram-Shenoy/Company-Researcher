@@ -5,13 +5,13 @@
 
 ## Folder information
 📂 URLS
-- Contains the URLs of the form 10-k stored in the EDGAR database. Extracted based on their ticker symbol.
+- Contains the URLs of the Form 10-K stored in the EDGAR database. Extracted based on their ticker symbol.
 
 📂 Business section
 - Contains the Business section of the company the user searched for.
 
 📂 AI Summary
-- Contains the Summary based on the information extracted an stored in Business section
+- Contains the Summary based on the information extracted and stored in the Business section
 
 ## Motivation
 **Use Cases**
