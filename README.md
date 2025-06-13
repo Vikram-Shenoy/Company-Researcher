@@ -23,7 +23,7 @@ This repository currently contains code for extracting and summarizing the Busin
 - Quickly analyzing a company's business model and operations from its latest 10-K filing.
 - Reducing the manual effort in processing regulatory filings for competitive analysis.
    
-Future Scope
+## Future Scope
 - Integration with a complete company research agent.
 - Enhancing the extraction process to improve accuracy when identifying the business section.
 - Supporting additional sections of the 10-K, such as risk factors or management discussion.
