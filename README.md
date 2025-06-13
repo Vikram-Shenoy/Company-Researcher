@@ -1,17 +1,22 @@
 # Company-Researcher
 
 ## Introduction: Form 10-K Extractor & Summarizer
-> This repository currently contains code for extracting and summarizing the Business Section (Item 1) from the latest 10-K filings of publicly traded companies. Using the SEC API, the script fetches the most recent 10-K filing based on a given ticker symbol, identifies and extracts the relevant business information, and summarizes it using Gemini. The output is stored in a structured directory for easy access.
+This repository currently contains code for extracting and summarizing the Business Section (Item 1) from the latest 10-K filings of publicly traded companies. Using the SEC API, the script fetches the most recent 10-K filing based on a given ticker symbol, identifies and extracts the relevant business information, and summarizes it using Gemini. The output is stored in a structured directory for easy access.
 
-## Folder information
+### ➡️ Inputs ⬅️
+
+----
+
 📂 URLS
 - Contains the URLs of the Form 10-K stored in the EDGAR database. Extracted based on their ticker symbol.
 
 📂 Business section
 - Contains the Business section of the company the user searched for.
 
+### 🟢 Results 🟢
+----
 📂 AI Summary
-- Contains the Summary based on the information extracted and stored in the Business section
+- Contains the Summary based on the information extracted and stored in the Business section.
 
 ## Motivation
 **Use Cases**
